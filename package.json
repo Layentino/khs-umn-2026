@@ -1,0 +1,15 @@
+{
+  "name": "portal-khs-umn",
+  "version": "1.0.0",
+  "description": "Sistem Informasi Akademik KHS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "pg": "^8.11.5"
+  }
+}
